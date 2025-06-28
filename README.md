@@ -1,12 +1,22 @@
-# React + Vite
+SCSDB is a React-based movie web application that lets users browse, search, and explore movies through a clean and responsive UI. This project was built to dive deep into core React concepts, routing, and API integration, making it a big milestone in my web development journey.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ What I learned:
 
-Currently, two official plugins are available:
+React fundamentals & component-based architecture
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router for smooth navigation
 
-## Expanding the ESLint configuration
+Fetching & displaying data via APIs
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling and UI/UX design using clean layouts
+
+Key features include:
+
+Comprehensive Movie Listings: Browse through an extensive collection of movies with detailed information.
+
+Interactive User Interface: Enjoy a seamless and responsive design for an optimal viewing experience.
+
+Efficient Search Functionality: Quickly find your favorite movies with an intuitive search feature.
+
+This project allowed me to deepen my expertise in React and enhance my front-end development skills.
+
